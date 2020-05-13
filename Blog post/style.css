@@ -1,0 +1,51 @@
+body{
+    font-size:20px;
+    font-family:inherit;
+}
+
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    font-family:inherit;
+}
+.tab { 
+       display:inline-block; 
+       margin-left: 420px;
+       margin-right: 420px;
+}
+
+.tab1{
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    font-family:inherit;
+    margin-left: 420px;
+    margin-right: 420px;
+
+}
+
+.tab2 { 
+       display:inherit; 
+       margin-right: 350px;
+}
+
+
+p {
+    <span class="tab">
+    <span class="tab1">
+}
+
+#example img {
+float: left;
+margin-left:150px;
+}
+
+#example2 img {
+float: left;
+margin-left:250px;
+}
+
+#example3 img {
+float:inherit;
+margin:auto
+}
